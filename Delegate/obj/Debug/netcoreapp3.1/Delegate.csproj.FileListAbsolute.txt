@@ -1,0 +1,14 @@
+D:\EnLab\CSharp_practice\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+D:\EnLab\CSharp_practice\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+D:\EnLab\CSharp_practice\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+D:\EnLab\CSharp_practice\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+D:\EnLab\CSharp_practice\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+D:\EnLab\CSharp_practice\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+D:\EnLab\CSharp_practice\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.AssemblyReference.cache
+D:\EnLab\CSharp_practice\Delegate\obj\Debug\netcoreapp3.1\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\EnLab\CSharp_practice\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+D:\EnLab\CSharp_practice\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+D:\EnLab\CSharp_practice\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+D:\EnLab\CSharp_practice\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+D:\EnLab\CSharp_practice\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+D:\EnLab\CSharp_practice\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache

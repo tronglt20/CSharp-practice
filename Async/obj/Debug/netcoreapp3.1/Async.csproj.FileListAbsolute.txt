@@ -1,0 +1,14 @@
+D:\EnLab\CSharp_practice\Async\bin\Debug\netcoreapp3.1\Async.exe
+D:\EnLab\CSharp_practice\Async\bin\Debug\netcoreapp3.1\Async.deps.json
+D:\EnLab\CSharp_practice\Async\bin\Debug\netcoreapp3.1\Async.runtimeconfig.json
+D:\EnLab\CSharp_practice\Async\bin\Debug\netcoreapp3.1\Async.runtimeconfig.dev.json
+D:\EnLab\CSharp_practice\Async\bin\Debug\netcoreapp3.1\Async.dll
+D:\EnLab\CSharp_practice\Async\bin\Debug\netcoreapp3.1\Async.pdb
+D:\EnLab\CSharp_practice\Async\obj\Debug\netcoreapp3.1\Async.GeneratedMSBuildEditorConfig.editorconfig
+D:\EnLab\CSharp_practice\Async\obj\Debug\netcoreapp3.1\Async.AssemblyInfoInputs.cache
+D:\EnLab\CSharp_practice\Async\obj\Debug\netcoreapp3.1\Async.AssemblyInfo.cs
+D:\EnLab\CSharp_practice\Async\obj\Debug\netcoreapp3.1\Async.csproj.CoreCompileInputs.cache
+D:\EnLab\CSharp_practice\Async\obj\Debug\netcoreapp3.1\Async.dll
+D:\EnLab\CSharp_practice\Async\obj\Debug\netcoreapp3.1\Async.pdb
+D:\EnLab\CSharp_practice\Async\obj\Debug\netcoreapp3.1\Async.genruntimeconfig.cache
+D:\EnLab\CSharp_practice\Async\obj\Debug\netcoreapp3.1\Async.csproj.AssemblyReference.cache

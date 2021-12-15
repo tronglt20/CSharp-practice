@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Partial_Nested/1.0.0": {
+        "runtime": {
+          "Partial_Nested.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Partial_Nested/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

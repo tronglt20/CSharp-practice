@@ -1,0 +1,19 @@
+D:\EnLab\CSharp_practice\WebAPI Practice DI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\EnLab\CSharp_practice\WebAPI Practice DI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\EnLab\CSharp_practice\WebAPI Practice DI\bin\Debug\netcoreapp3.1\WebAPI Practice DI.exe
+D:\EnLab\CSharp_practice\WebAPI Practice DI\bin\Debug\netcoreapp3.1\WebAPI Practice DI.deps.json
+D:\EnLab\CSharp_practice\WebAPI Practice DI\bin\Debug\netcoreapp3.1\WebAPI Practice DI.runtimeconfig.json
+D:\EnLab\CSharp_practice\WebAPI Practice DI\bin\Debug\netcoreapp3.1\WebAPI Practice DI.runtimeconfig.dev.json
+D:\EnLab\CSharp_practice\WebAPI Practice DI\bin\Debug\netcoreapp3.1\WebAPI Practice DI.dll
+D:\EnLab\CSharp_practice\WebAPI Practice DI\bin\Debug\netcoreapp3.1\WebAPI Practice DI.pdb
+D:\EnLab\CSharp_practice\WebAPI Practice DI\obj\Debug\netcoreapp3.1\WebAPI Practice DI.csproj.AssemblyReference.cache
+D:\EnLab\CSharp_practice\WebAPI Practice DI\obj\Debug\netcoreapp3.1\WebAPI Practice DI.GeneratedMSBuildEditorConfig.editorconfig
+D:\EnLab\CSharp_practice\WebAPI Practice DI\obj\Debug\netcoreapp3.1\WebAPI Practice DI.AssemblyInfoInputs.cache
+D:\EnLab\CSharp_practice\WebAPI Practice DI\obj\Debug\netcoreapp3.1\WebAPI Practice DI.AssemblyInfo.cs
+D:\EnLab\CSharp_practice\WebAPI Practice DI\obj\Debug\netcoreapp3.1\WebAPI Practice DI.csproj.CoreCompileInputs.cache
+D:\EnLab\CSharp_practice\WebAPI Practice DI\obj\Debug\netcoreapp3.1\WebAPI Practice DI.MvcApplicationPartsAssemblyInfo.cache
+D:\EnLab\CSharp_practice\WebAPI Practice DI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI Practice DI.StaticWebAssets.Manifest.cache
+D:\EnLab\CSharp_practice\WebAPI Practice DI\obj\Debug\netcoreapp3.1\WebAPI Practice DI.RazorTargetAssemblyInfo.cache
+D:\EnLab\CSharp_practice\WebAPI Practice DI\obj\Debug\netcoreapp3.1\WebAPI Practice DI.dll
+D:\EnLab\CSharp_practice\WebAPI Practice DI\obj\Debug\netcoreapp3.1\WebAPI Practice DI.pdb
+D:\EnLab\CSharp_practice\WebAPI Practice DI\obj\Debug\netcoreapp3.1\WebAPI Practice DI.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\EnLab\CSharp_practice\Lambda\bin\Debug\netcoreapp3.1\Lambda.exe
+D:\EnLab\CSharp_practice\Lambda\bin\Debug\netcoreapp3.1\Lambda.deps.json
+D:\EnLab\CSharp_practice\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.json
+D:\EnLab\CSharp_practice\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.dev.json
+D:\EnLab\CSharp_practice\Lambda\bin\Debug\netcoreapp3.1\Lambda.dll
+D:\EnLab\CSharp_practice\Lambda\bin\Debug\netcoreapp3.1\Lambda.pdb
+D:\EnLab\CSharp_practice\Lambda\obj\Debug\netcoreapp3.1\Lambda.csproj.AssemblyReference.cache
+D:\EnLab\CSharp_practice\Lambda\obj\Debug\netcoreapp3.1\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\EnLab\CSharp_practice\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfoInputs.cache
+D:\EnLab\CSharp_practice\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfo.cs
+D:\EnLab\CSharp_practice\Lambda\obj\Debug\netcoreapp3.1\Lambda.csproj.CoreCompileInputs.cache
+D:\EnLab\CSharp_practice\Lambda\obj\Debug\netcoreapp3.1\Lambda.dll
+D:\EnLab\CSharp_practice\Lambda\obj\Debug\netcoreapp3.1\Lambda.pdb
+D:\EnLab\CSharp_practice\Lambda\obj\Debug\netcoreapp3.1\Lambda.genruntimeconfig.cache

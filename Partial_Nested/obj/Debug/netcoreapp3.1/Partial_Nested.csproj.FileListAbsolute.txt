@@ -1,0 +1,14 @@
+D:\EnLab\CSharp_practice\Partial_Nested\bin\Debug\netcoreapp3.1\Partial_Nested.exe
+D:\EnLab\CSharp_practice\Partial_Nested\bin\Debug\netcoreapp3.1\Partial_Nested.deps.json
+D:\EnLab\CSharp_practice\Partial_Nested\bin\Debug\netcoreapp3.1\Partial_Nested.runtimeconfig.json
+D:\EnLab\CSharp_practice\Partial_Nested\bin\Debug\netcoreapp3.1\Partial_Nested.runtimeconfig.dev.json
+D:\EnLab\CSharp_practice\Partial_Nested\bin\Debug\netcoreapp3.1\Partial_Nested.dll
+D:\EnLab\CSharp_practice\Partial_Nested\bin\Debug\netcoreapp3.1\Partial_Nested.pdb
+D:\EnLab\CSharp_practice\Partial_Nested\obj\Debug\netcoreapp3.1\Partial_Nested.csproj.AssemblyReference.cache
+D:\EnLab\CSharp_practice\Partial_Nested\obj\Debug\netcoreapp3.1\Partial_Nested.GeneratedMSBuildEditorConfig.editorconfig
+D:\EnLab\CSharp_practice\Partial_Nested\obj\Debug\netcoreapp3.1\Partial_Nested.AssemblyInfoInputs.cache
+D:\EnLab\CSharp_practice\Partial_Nested\obj\Debug\netcoreapp3.1\Partial_Nested.AssemblyInfo.cs
+D:\EnLab\CSharp_practice\Partial_Nested\obj\Debug\netcoreapp3.1\Partial_Nested.csproj.CoreCompileInputs.cache
+D:\EnLab\CSharp_practice\Partial_Nested\obj\Debug\netcoreapp3.1\Partial_Nested.dll
+D:\EnLab\CSharp_practice\Partial_Nested\obj\Debug\netcoreapp3.1\Partial_Nested.pdb
+D:\EnLab\CSharp_practice\Partial_Nested\obj\Debug\netcoreapp3.1\Partial_Nested.genruntimeconfig.cache

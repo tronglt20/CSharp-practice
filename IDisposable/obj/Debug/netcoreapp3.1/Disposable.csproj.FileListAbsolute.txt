@@ -1,0 +1,13 @@
+D:\EnLab\CSharp_practice\IDisposable\bin\Debug\netcoreapp3.1\Disposable.exe
+D:\EnLab\CSharp_practice\IDisposable\bin\Debug\netcoreapp3.1\Disposable.deps.json
+D:\EnLab\CSharp_practice\IDisposable\bin\Debug\netcoreapp3.1\Disposable.runtimeconfig.json
+D:\EnLab\CSharp_practice\IDisposable\bin\Debug\netcoreapp3.1\Disposable.runtimeconfig.dev.json
+D:\EnLab\CSharp_practice\IDisposable\bin\Debug\netcoreapp3.1\Disposable.dll
+D:\EnLab\CSharp_practice\IDisposable\bin\Debug\netcoreapp3.1\Disposable.pdb
+D:\EnLab\CSharp_practice\IDisposable\obj\Debug\netcoreapp3.1\Disposable.GeneratedMSBuildEditorConfig.editorconfig
+D:\EnLab\CSharp_practice\IDisposable\obj\Debug\netcoreapp3.1\Disposable.AssemblyInfoInputs.cache
+D:\EnLab\CSharp_practice\IDisposable\obj\Debug\netcoreapp3.1\Disposable.AssemblyInfo.cs
+D:\EnLab\CSharp_practice\IDisposable\obj\Debug\netcoreapp3.1\Disposable.csproj.CoreCompileInputs.cache
+D:\EnLab\CSharp_practice\IDisposable\obj\Debug\netcoreapp3.1\Disposable.dll
+D:\EnLab\CSharp_practice\IDisposable\obj\Debug\netcoreapp3.1\Disposable.pdb
+D:\EnLab\CSharp_practice\IDisposable\obj\Debug\netcoreapp3.1\Disposable.genruntimeconfig.cache

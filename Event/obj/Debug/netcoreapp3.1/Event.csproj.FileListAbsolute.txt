@@ -1,0 +1,14 @@
+D:\EnLab\CSharp_practice\Event\bin\Debug\netcoreapp3.1\Event.exe
+D:\EnLab\CSharp_practice\Event\bin\Debug\netcoreapp3.1\Event.deps.json
+D:\EnLab\CSharp_practice\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.json
+D:\EnLab\CSharp_practice\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.dev.json
+D:\EnLab\CSharp_practice\Event\bin\Debug\netcoreapp3.1\Event.dll
+D:\EnLab\CSharp_practice\Event\bin\Debug\netcoreapp3.1\Event.pdb
+D:\EnLab\CSharp_practice\Event\obj\Debug\netcoreapp3.1\Event.csproj.AssemblyReference.cache
+D:\EnLab\CSharp_practice\Event\obj\Debug\netcoreapp3.1\Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\EnLab\CSharp_practice\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+D:\EnLab\CSharp_practice\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfo.cs
+D:\EnLab\CSharp_practice\Event\obj\Debug\netcoreapp3.1\Event.csproj.CoreCompileInputs.cache
+D:\EnLab\CSharp_practice\Event\obj\Debug\netcoreapp3.1\Event.dll
+D:\EnLab\CSharp_practice\Event\obj\Debug\netcoreapp3.1\Event.pdb
+D:\EnLab\CSharp_practice\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache

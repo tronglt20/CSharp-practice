@@ -1,0 +1,14 @@
+D:\EnLab\CSharp_practice\LinQ\bin\Debug\netcoreapp3.1\LinQ.exe
+D:\EnLab\CSharp_practice\LinQ\bin\Debug\netcoreapp3.1\LinQ.deps.json
+D:\EnLab\CSharp_practice\LinQ\bin\Debug\netcoreapp3.1\LinQ.runtimeconfig.json
+D:\EnLab\CSharp_practice\LinQ\bin\Debug\netcoreapp3.1\LinQ.runtimeconfig.dev.json
+D:\EnLab\CSharp_practice\LinQ\bin\Debug\netcoreapp3.1\LinQ.dll
+D:\EnLab\CSharp_practice\LinQ\bin\Debug\netcoreapp3.1\LinQ.pdb
+D:\EnLab\CSharp_practice\LinQ\obj\Debug\netcoreapp3.1\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\EnLab\CSharp_practice\LinQ\obj\Debug\netcoreapp3.1\LinQ.AssemblyInfoInputs.cache
+D:\EnLab\CSharp_practice\LinQ\obj\Debug\netcoreapp3.1\LinQ.AssemblyInfo.cs
+D:\EnLab\CSharp_practice\LinQ\obj\Debug\netcoreapp3.1\LinQ.csproj.CoreCompileInputs.cache
+D:\EnLab\CSharp_practice\LinQ\obj\Debug\netcoreapp3.1\LinQ.dll
+D:\EnLab\CSharp_practice\LinQ\obj\Debug\netcoreapp3.1\LinQ.pdb
+D:\EnLab\CSharp_practice\LinQ\obj\Debug\netcoreapp3.1\LinQ.genruntimeconfig.cache
+D:\EnLab\CSharp_practice\LinQ\obj\Debug\netcoreapp3.1\LinQ.csproj.AssemblyReference.cache

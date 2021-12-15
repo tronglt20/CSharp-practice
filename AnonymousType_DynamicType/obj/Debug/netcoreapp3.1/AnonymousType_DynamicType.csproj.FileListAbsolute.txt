@@ -1,0 +1,14 @@
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\bin\Debug\netcoreapp3.1\AnonymousType_DynamicType.exe
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\bin\Debug\netcoreapp3.1\AnonymousType_DynamicType.deps.json
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\bin\Debug\netcoreapp3.1\AnonymousType_DynamicType.runtimeconfig.json
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\bin\Debug\netcoreapp3.1\AnonymousType_DynamicType.runtimeconfig.dev.json
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\bin\Debug\netcoreapp3.1\AnonymousType_DynamicType.dll
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\bin\Debug\netcoreapp3.1\AnonymousType_DynamicType.pdb
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\obj\Debug\netcoreapp3.1\AnonymousType_DynamicType.GeneratedMSBuildEditorConfig.editorconfig
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\obj\Debug\netcoreapp3.1\AnonymousType_DynamicType.AssemblyInfoInputs.cache
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\obj\Debug\netcoreapp3.1\AnonymousType_DynamicType.AssemblyInfo.cs
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\obj\Debug\netcoreapp3.1\AnonymousType_DynamicType.csproj.CoreCompileInputs.cache
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\obj\Debug\netcoreapp3.1\AnonymousType_DynamicType.dll
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\obj\Debug\netcoreapp3.1\AnonymousType_DynamicType.pdb
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\obj\Debug\netcoreapp3.1\AnonymousType_DynamicType.genruntimeconfig.cache
+D:\EnLab\CSharp_practice\AnonymousType_DynamicType\obj\Debug\netcoreapp3.1\AnonymousType_DynamicType.csproj.AssemblyReference.cache
